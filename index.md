@@ -28,8 +28,8 @@ A Senior in Donghua University, majoring in automation.
 ---
 ## Competitions
 
-- American College Student Mathematical Contest in Modeling, **S prize**, 2020.03
-- National University Student Smart Car Competition **East Competition Second Prize**, 2020.08
+- American College Student Mathematical Contest in Modeling, **S Prize**, 2020.03
+- National University Student Smart Car Competition, **East  Second Prize**, 2020.08
 - National College Student Mathematical Contest in Modeling, **Shanghai Third Prize**, 2020.10
 - TI Cup Shanghai Undergraduate Electronics Design Contest, **Shanghai First Prize**, 2020.10
 - Undergraduate Embedded Chip Design Competition, **First Prize in Eastern Region**, 2020.11
