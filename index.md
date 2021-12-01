@@ -7,13 +7,14 @@
       <p><b>A Senior</b></p>
       <p><b>SIST in DHU</b></p>
       <p><b>Email：zwh877719756@163.com</b></p>
-      <!--<p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>-->
+      <p><b>Address：Songjiang distract in shanghai</b></p>
     </td>
     <td width="25%">
-      <img src="/wenhao.png" width="100%">      % 插入证件照代码
+      <img src="/wenhao.png" width="70%">      
     </td>
   </tr>
 </table>
+
 
 
 -------------------------------
