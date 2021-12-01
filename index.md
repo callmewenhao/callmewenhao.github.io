@@ -1,3 +1,5 @@
+## wenhao 's selfage
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -8,32 +10,32 @@
       <p><b>Address：Songjiang Distract in Shanghai</b></p>
     </td>
     <td width="25%">
-      <img src="/生活照.jpg" width="70%">      
+      <img src="/wenhao.png" width="70%">      
     </td>
   </tr>
 </table>
 
 ---
-### Introduction
+## Introduction
 
 My name is zhaowenhao, you can see my blogs [here!](https://callmewenhao.github.io/blog/)
 
 ---
-### Education
+## Education
 
-A Senior in Donghua University. Majoring in automation.
+A Senior in Donghua University, majoring in automation.
 
 ---
-### Competitions
+## Competitions
 
 - American College Student Mathematical Contest in Modeling, **S prize**, 2020.03
 - National University Student Smart Car Competition **East Competition Second Prize**, 2020.08
 - National College Student Mathematical Contest in Modeling, **Shanghai Third Prize**, 2020.10
 - TI Cup Shanghai Undergraduate Electronics Design Contest, **Shanghai First Prize**, 2020.10
-- National College Student Embedded Chip and System Design Competition, **First Prize in Eastern Region**, 2020.11
+- Undergraduate Embedded Chip Design Competition, **First Prize in Eastern Region**, 2020.11
 
 ---
-### Internships
+## Internships
 
 - None
 
