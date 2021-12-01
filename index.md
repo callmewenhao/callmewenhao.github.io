@@ -2,15 +2,15 @@
 
 <table border="0">
   <tr>
+    <td width="25%">
+      <img src="/wenhao.png" width="70%">      
+    </td>
     <td width="75%">
       <h1>zhaowenhao</h1>
       <p><b>A Senior</b></p>
       <p><b>SIST in DHU</b></p>
       <p><b>Email：zwh877719756@163.com</b></p>
       <p><b>Address：Songjiang Distract in Shanghai</b></p>
-    </td>
-    <td width="25%">
-      <img src="/wenhao.png" width="70%">      
     </td>
   </tr>
 </table>
