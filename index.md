@@ -8,7 +8,7 @@
       <p><b>Address：Songjiang Distract in Shanghai</b></p>
     </td>
     <td width="25%">
-      <img src="/wenhao.png" width="70%">      
+      <img src="/生活照.jpg" width="70%">      
     </td>
   </tr>
 </table>
@@ -37,12 +37,3 @@ A Senior in Donghua University. Majoring in automation.
 
 - None
 
----
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/callmewenhao/callmewenhao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
----
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
